@@ -1,0 +1,2 @@
+# CustomPluginPermissionCheckFile
+personal uses
